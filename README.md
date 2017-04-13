@@ -4,6 +4,8 @@
 
 We will be working with **“Big Data”** to answer or expose urban issues.  
 
+<p align="center"><img src="https://sap.mit.edu/sites/sap.mit.edu/files/styles/banner_image/public/images/exhibits/pedestrianvscar_1.png?itok=IHfhJKQ_" /></p>
+
 During this project we will learn technical skills which involves us working with **“Big Data”** such as cleaning and aggregating data in **python**, **D3.js** and other **web-based visualization software**, and accessing **API’s** to download big data. 
 
 
